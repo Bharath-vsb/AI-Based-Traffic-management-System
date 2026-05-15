@@ -1,0 +1,4 @@
+project_id = "wngtntvfcvmmyhplzked"
+
+[functions.analyze-traffic-image]
+verify_jwt = false
